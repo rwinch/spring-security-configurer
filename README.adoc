@@ -1,1 +1,4 @@
 Demonstrates how to create your own custom DSL for Spring Security Java Configuration configuration.
+
+* https://github.com/rwinch/spring-security-configurer/blob/master/src/main/java/sample/MyConfigurer.java[MyConfigurer] - provides the custom DSL
+* https://github.com/rwinch/spring-security-configurer/blob/master/src/main/java/sample/SecurityConfig.java[SecurityConfig] - example of using the custom DSL
