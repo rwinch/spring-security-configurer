@@ -1,0 +1,1 @@
+Demonstrates how to create your own custom DSL for Spring Security Java Configuration configuration.
